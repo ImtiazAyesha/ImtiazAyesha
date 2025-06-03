@@ -42,21 +42,6 @@
 ---
 
 ## 🏆 **Featured Projects**  
-### 🚀 **Collaborative Work**  
-
-#### **🔹 AI-Based Health Dashboard**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-MeerMoazzam/DocAI/tree/ayesha-dev)  
-
-📂 **Code:** [DocAI Repository](https://github.com/Mr-MeerMoazzam/DocAI/tree/ayesha-dev)  
-
-A **Next.js-powered AI-driven health dashboard** designed to help users find doctors efficiently. This project includes:  
-✅ **Intelligent search functionality** for filtering doctors based on expertise.  
-✅ **AI-powered recommendations** to enhance user experience.  
-✅ **Real-time updates** using WebSockets for seamless interactions.  
-✅ **Responsive and intuitive UI**, ensuring accessibility across devices.  
-
----  
-
 
 ### **🔹 Ecommerce Store**  
 **🔗 Live Demo:** [Ecommerce Store](https://ayesha-ecommerce-store.netlify.app/) | **📂 Code:** [GitHub Repository](https://github.com/ImtiazAyesha/Ecommerce_store)  
