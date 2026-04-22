@@ -1,5 +1,5 @@
 # **Hi, I'm Ayesha Imtiaz 👋**  
-### **🚀 Frontend Engineer | Next.js & React Specialist | AI & Real-Time Web Enthusiast | Continous Learner|**  
+### **🚀 AI Driven Frontend Engineer | Next.js & React Specialist | AI & Real-Time Web Enthusiast | Continous Learner|**  
 
 💻 Passionate about **building high-performance web applications** with modern frontend technologies.  
 🤖 Exploring **AI integrations in frontend development** and real-time user experiences.  
