@@ -1,5 +1,5 @@
 # **Hi, I'm Ayesha Imtiaz 👋**  
-### **🚀 AI Driven Frontend Engineer | Next.js & React Specialist | AI & Real-Time Web Enthusiast | Continous Learner|**  
+### **🚀 AI Driven Frontend Developer | Next.js & React Specialist | AI & Real-Time Web Enthusiast | Continous Learner|**  
 
 💻 Passionate about **building high-performance web applications** with modern frontend technologies.  
 🤖 Exploring **AI integrations in frontend development** and real-time user experiences.  
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 **About Me**  
-- 🎯 **Frontend Engineer Intern** at an AI-based company, working on **real-time, AI-driven applications**.  
+- 🎯 **Senior Frontend Developer** at an AI-based company, working on **real-time, AI-driven applications**.  
 - ⚡ **Expertise:** Next.js, React.js, Tailwind CSS, JavaScript (ES6+).  
 - 🔥 Experienced in real-time data processing and API development using FastAPI.
 - 🤖 Passionate about **AI-powered frontend applications** using OpenAI API.  
